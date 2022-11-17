@@ -16,3 +16,4 @@
 12. git checkout 'name' - переключение между ветками
 
 13. git pull [rep_link] [branch] - переносит данные с github на комп, с нужной ветки
+14. git branch -d 'name' - удаляет ветку с компа
