@@ -14,3 +14,5 @@
     из ветки develop можно создать feature/main-page, посне нее можно сделать feature/about-company
 11. git branch 'name' - создание новой ветки
 12. git checkout 'name' - переключение между ветками
+
+13. git pull [rep_link] [branch] - переносит данные с github на комп, с нужной ветки
